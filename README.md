@@ -2,11 +2,9 @@
 
 <p>Awesome lists curated based on our experience.</p>
 
-<ul>
-	<li> [Laravel](web/laravel.md)</li>
+ [Laravel](web/laravel.md)
 	<!-- <ul>
 		Web
 		<li>Laravel</li>
 	</ul> -->
 	<!-- <li>Laravel</li> -->
-</ul>
